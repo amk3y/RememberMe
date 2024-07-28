@@ -5,9 +5,6 @@ import com.actualplayer.rememberme.models.UserServer;
 import com.actualplayer.rememberme.util.FileUtils;
 import com.actualplayer.rememberme.util.YamlUtils;
 import com.velocitypowered.api.proxy.server.RegisteredServer;
-import ninja.leaping.configurate.ConfigurationNode;
-import ninja.leaping.configurate.gson.GsonConfigurationLoader;
-import ninja.leaping.configurate.objectmapping.ObjectMappingException;
 
 import java.io.File;
 import java.io.IOException;
